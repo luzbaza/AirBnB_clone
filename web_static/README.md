@@ -1,5 +1,7 @@
 ## 0x01. AirBnB clone - Web static
 
+![Captura](https://user-images.githubusercontent.com/71143825/125232623-a114b400-e2a2-11eb-8da6-19fcd27c0939.PNG)
+
 ### Background Context
 Web static, what?
 Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!
